@@ -10,6 +10,8 @@ This project delves into the global challenge of cholera by analyzing a comprehe
 
 [View raw data](Cholera_project_dataset.csv)
 
+[View Dashboard](DASHBOARD.JPG)
+
 ## Project Structure & Methodology
 This project followed a structured data analysis workflow to transform raw cholera data into actionable insights. The methodology comprised the following phases:
 
