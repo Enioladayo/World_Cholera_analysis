@@ -6,7 +6,7 @@ This project delves into the global challenge of cholera by analyzing a comprehe
 
 [View the Full Cholera Analysis Report](https://github.com/Enioladayo/World_Cholera_analysis/blob/main/Cholera%20analysis%20project.pdf)
 
-[View python script](Cholera project.ipynb)
+[View python script](https://github.com/Enioladayo/World_Cholera_analysis/blob/main/cholera%20project.ipynb)
 
 [View raw data](Cholera_project_dataset.csv)
 
