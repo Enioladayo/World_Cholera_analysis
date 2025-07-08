@@ -4,7 +4,7 @@
 
 This project delves into the global challenge of cholera by analyzing a comprehensive dataset. The goal is to uncover key trends, identify influencing factors, and provide actionable insights to better understand and combat cholera outbreaks worldwide.
 
-[View the Full Cholera Analysis Report](Cholera analysis project.pdf)
+[View the Full Cholera Analysis Report](https://github.com/Enioladayo/World_Cholera_analysis/blob/main/Cholera%20analysis%20project.pdf)
 
 [View python script](Cholera project.ipynb)
 
