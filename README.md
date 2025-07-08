@@ -5,8 +5,10 @@
 This project delves into the global challenge of cholera by analyzing a comprehensive dataset. The goal is to uncover key trends, identify influencing factors, and provide actionable insights to better understand and combat cholera outbreaks worldwide.
 
 [View the Full Cholera Analysis Report](Cholera analysis project.pdf)
+
 [View python script](Cholera project.ipynb)
-[View raw data](Cholera dataset project.xlsx)
+
+[View raw data](Cholera_project_dataset.csv)
 
 ## Project Structure & Methodology
 This project followed a structured data analysis workflow to transform raw cholera data into actionable insights. The methodology comprised the following phases:
