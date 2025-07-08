@@ -61,21 +61,21 @@ Visual representation of key findings, including:
 
 ## Key Insights
 
-A. Despite **high sanitation coverage** and low contamination levels in some countries (e.g., USA), high bacteria levels and turbidity were significant determinants of high cholera cases.
+A. Despite **high sanitation coverage** and **low contamination levels** in some countries (e.g., USA), **high bacteria levels** and **turbidity** were significant determinants of high cholera cases.
 
-B. A notable decrease in average cholera cases was observed in 2024 for both USA and Mexico, correlating with improved treatment of causative factors.
+B. A **notable decrease** in average cholera cases was observed in 2024 for both USA and Mexico, correlating with improved treatment of causative factors.
 
-The project emphasizes that even treated water can still carry a risk of cholera outbreaks.
+The project emphasizes that even treated water can still carry a **risk of cholera outbreaks**.
 
-Cholera outbreaks are directly linked to infant mortality rates; a reduction in cholera cases corresponds to a decrease in infant mortality.
+Cholera outbreaks are **directly linked** to infant mortality rates; a reduction in cholera cases corresponds to a decrease in infant mortality.
 
-Recommendations
+## Recommendations
 Based on the analysis, the following recommendations are proposed:
 
-Implement effective systems to reduce bacteria count and turbidity in water sources.
+Implement **effective systems** to reduce bacteria count and turbidity in water sources.
 
 Prioritize tackling cholera outbreaks as a direct means to decrease infant mortality rates.
 
-Review and improve existing treatment methods for cholera.
+**Review and improve** existing treatment methods for cholera.
 
-Analyze and enhance strategies used to combat cholera outbreaks in 2024 for potential application and improvement in subsequent years.
+**Analyze and enhance** strategies used to combat cholera outbreaks in 2024 for potential application and improvement in subsequent years.
